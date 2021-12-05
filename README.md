@@ -1,1 +1,1 @@
-# H29KaratsuGrossProduction
+H29年 経済活動別唐津市内総生産(引用：佐賀県統計分析課「市町民経済計算」) 
